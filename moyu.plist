@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>moyu.demo</string>
+				<string>com.moyu.demo</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>陌羽通信</string>
+				<string>moyu.unit</string>
 			</dict>
 		</dict>
 	</array>
