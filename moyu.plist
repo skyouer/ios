@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>MY.MYWebView</string>
+				<string>raw.githubusercontent.com</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
